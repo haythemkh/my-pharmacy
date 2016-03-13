@@ -1,0 +1,22 @@
+{
+  "name": "my-pharmacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app/MainActivity.java",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haythemkh/my-pharmacy.git"
+  },
+  "keywords": [
+    "Java",
+    "Android",
+    "Medicines",
+    "Pharmacy"
+  ],
+  "author": "Haythem Khiri <haythem.khiri@yahoo.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haythemkh/my-pharmacy/issues"
+  },
+  "homepage": "https://github.com/haythemkh/my-pharmacy#readme"
+}
