@@ -18,7 +18,7 @@ public interface DatabaseDAO<T> {
     public void connect();
     public void disconnect();
 
-    public ArrayList<DrugModel> getAll();
+    public ArrayList<T> getAll();
     public T getById(long id);
     public long save(T obj);
     public void update(T obj);
